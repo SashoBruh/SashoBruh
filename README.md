@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @SashoBruh
-- 👀 I’m interested in C#, Java, Python and html 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me: @sashobruh
+
